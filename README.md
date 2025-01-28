@@ -3,4 +3,5 @@ This simple code will convert rosbag file to rgb image and depth image
 
 
 Just run 
-python3 
+python3 bag_to_depth_color.py 
+where your bagfile is located

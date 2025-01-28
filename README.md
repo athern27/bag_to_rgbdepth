@@ -9,4 +9,4 @@ python3 bag_to_depth_color.py
 where your bagfile is located
 
 
-Please raise a issue if you have any doubbts or problems
+Please raise a issue if you have any doubts or problems
